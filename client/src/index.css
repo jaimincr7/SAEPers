@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: black;
+  font-synthesis: none;
+  background-color: rgba(241,241,252,255);
+}
+
+html, body {
+  margin:0;
+  padding:0;
+}
+
+.shadows{
+  box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+}
+.shadows:hover{
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+  cursor:pointer
+}
+
+.flex{
+  display: flex;
+}

@@ -1,0 +1,31 @@
+footer{
+    /* background-color: #f1f1fc; */
+    margin: 10px 0;
+
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+#website--icon{
+    width: 70px;
+    height: 70px;
+}
+
+#website--title{
+    color: black;
+    margin-left: 20px;
+    font-weight: normal;
+}
+
+#layout{
+    margin: 0 60px
+}
+
+#navbar{
+    /* background-color: #f1f1fc; */
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+}
